@@ -1,0 +1,29 @@
+* {
+    background-color: black;
+}
+
+/* --- HEADER --- */
+header nav {
+    display: flex;
+    flex-direction: space-between;
+    justify-content: space-around;
+}
+
+/* TEKST */
+
+header h1 {
+    text-align: center;
+    color: green;
+}
+
+header a {
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+}
+
+/* --- MAIN --- */
+
+section h1 {
+    color: green;
+}
